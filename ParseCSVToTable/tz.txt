@@ -1,0 +1,20 @@
+Required Functionality
+----------------------
+You need to develop a web page that allows user to type data in CSV format into a text area. The first row has the names of columns, other rows represent the data. After the data is entered, the user can click a button to generate a nice looking HTML table out of the entered data.
+
+
+Desired Functionality
+---------------------
+Dynamically update generated table as the user changes the data
+Sort the table after user clicks on a column name (correct sorting should be provided for date, numbers and plain text)
+Grid should be designed as separate and reusable widget component
+
+
+Supported web browsers
+----------------------
+Firefox (latest version)
+Chrome (latest version)
+IE 8/9
+
+
+No third party libraries and borrowed code should be used.

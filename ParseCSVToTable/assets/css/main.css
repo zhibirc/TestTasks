@@ -1,0 +1,13 @@
+th {
+	background: #CFCFCF;
+	cursor: pointer;
+	
+}
+
+#preloader {
+	text-align: center;
+}
+
+.__hidden {
+	display: none;
+}
